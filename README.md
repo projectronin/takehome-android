@@ -22,11 +22,11 @@ Reload the data every time the app launches. If the network is not available, or
 
 You will be using this endpoint for the full list of photos:
 
-[https://mars-photos.s3-us-west-2.amazonaws.com/mars.json](https://mars-photos.s3-us-west-2.amazonaws.com/mars.json)
+[mars.json](./mars.json)
 
 This endpoint can be used for error testing, and has missing data:
 
-[https://mars-photos.s3-us-west-2.amazonaws.com/mars-missing.json](https://mars-photos.s3-us-west-2.amazonaws.com/mars-missing.json)
+[mars-missing.json](./mars-missing.json)
 
 Each photo item includes:
 
@@ -47,7 +47,7 @@ Please do **not** extend the UI beyond this.
 
 Here's a sample app of how this _may_ look:
 
-![Sample App Gif](https://github.com/projectronin/takehome-android/raw/master/MarsCam.gif)
+![Sample App Gif](./MarsCam.gif)
 
 
 **Language/Code:**
