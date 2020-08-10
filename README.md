@@ -47,6 +47,7 @@ Please do **not** extend the UI beyond this.
 
 Here's a sample app of how this _may_ look:
 
+![Sample App Gif](https://github.com/projectronin/takehome-android/raw/master/MarsCam.gif)
 
 
 **Language/Code:**
