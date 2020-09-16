@@ -56,7 +56,7 @@ Use either Kotlin or Java for this project. We have a 100% Kotlin app at Project
 
 **Testing:**
 
-Your code should be testable and modular. We are not looking for anything specific, but unit tests that provide enough coverage would be ideal.
+Your code should be testable and modular and, while we don't expect 100% code coverage, please make sure you include some unit and/or integration tests.
 
 **Important notes:**
 
